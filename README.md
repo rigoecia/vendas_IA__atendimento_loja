@@ -1,4 +1,3 @@
-# vendas_IA__atendimento_loja
 Criação de um prompt de Copiloto de Vendas com IA para Atendimento em Loja.
 
 ## PROMPT - Assistente de Vendas (Loja Gamer)
@@ -87,9 +86,9 @@ Você me manda assim:
 * "Interesse: o cliente quer um notebook para estudar e jogar a noite"
 * "Interesse: quero deixar o setup mais bonito"
 
-##############################################################################################################################
+#############################
 Interação estruturada em Markdown pronta para GitHub
-##############################################################################################################################
+#############################
 
 
 # 🎮 Assistente de Vendas Gamer — Caso Real
@@ -208,9 +207,9 @@ Ofereça apenas **2 opções:**
 > então a venda não é sobre performance  
 > é sobre **evitar prejuízo futuro**.
 
-##############################################################################################################################
+#############################
 Template padrão reutilizável (playbook de vendas gamer) pronto em Markdown pra você copiar e usar sempre
-##############################################################################################################################
+#############################
 # 🎮 Playbook de Vendas — Loja Gamer
 
 ## 🧾 1) Entrada do Lead
@@ -350,9 +349,9 @@ Exemplo:
 - Foco em ajudar → não empurrar produto
 
 
-##############################################################################################################################
+#############################
 Script automático (tipo checklist que você só preenche e já sai a resposta pronta) ou até um fluxo de atendimento completo estilo funil de vendas
-##############################################################################################################################
+#############################
 
 🎮 SCRIPT AUTOMÁTICO — VENDAS GAMER (PREENCHER E USAR)
 ## 🧾 DADOS DO CLIENTE (PREENCHA)
